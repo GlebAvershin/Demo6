@@ -4,5 +4,6 @@ int chetiri() {
 		if (i % 10 == 7) {
 			k++;
 		}
+	printf("%d", k);
 	return k;
 }
